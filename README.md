@@ -77,7 +77,7 @@ I test AI systems end to end: agent behaviour, validation across multiple LLMs, 
 
 **Mobile automation framework · Nielsen Media India Pvt Ltd**
 - Developed and maintained a hybrid PyTest framework for iOS and Android, using Appium, with Page Object Model and data-driven tests.
-- Stack: Python, Pytest, Appium, pytest-bdd, Allure reporting, Jenkins, GitHub.
+- Stack: Python, Pytest, Appium, Allure reporting, GitHub.
 
 **Web automation framework · FolksMedia India Pvt Ltd**
 - Developed and maintained a hybrid PyTest framework for web, using Selenium, with Page Object Model and data-driven tests.
