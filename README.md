@@ -82,3 +82,8 @@ I test AI systems end to end: agent behaviour, validation across multiple LLMs, 
 **Web automation framework · FolksMedia India Pvt Ltd**
 - Developed and maintained a hybrid PyTest framework for web, using Selenium, with Page Object Model and data-driven tests.
 - Stack: Python, Pytest, Selenium, Allure reporting, Jenkins, GitHub.
+
+**Test automation samples · Public demo sites**
+- Sample Pytest and Selenium framework with Page Object Model and data-driven tests, a Locust load test, and GitHub Actions CI. Runs against public demo sites, not work code.
+- Stack: Python, Pytest, Selenium, Locust, Allure reporting, GitHub Actions.
+- Repository: https://github.com/srinivas-py/qa-automation-samples
