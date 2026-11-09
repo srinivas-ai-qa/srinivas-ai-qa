@@ -86,4 +86,4 @@ I test AI systems end to end: agent behaviour, validation across multiple LLMs, 
 **Test automation samples · Public demo sites**
 - Sample Pytest and Selenium framework with Page Object Model and data-driven tests, a Locust load test, and GitHub Actions CI. Runs against public demo sites, not work code.
 - Stack: Python, Pytest, Selenium, Locust, Allure reporting, GitHub Actions.
-- Repository: https://github.com/srinivas-py/qa-automation-samples
+- Repository: https://github.com/srinivas-ai-qa/qa-automation-samples
